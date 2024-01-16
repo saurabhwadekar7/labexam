@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\dac\Pictures\lab_exam\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3506587233.index
+2519165821.index
